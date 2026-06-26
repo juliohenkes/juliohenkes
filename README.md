@@ -1,9 +1,9 @@
 ### Hello!
 
+- 🛡️ Cyber Threat Intelligence
 - 🎯 Red Team
 - 🔐 Pentest
 - 🔬 Reverse Engineering
-- 🛡️ Cyber Threat Intelligence
 - 💻 Development
 - 🔓 Open Source
 - 🐧 Debian fan
